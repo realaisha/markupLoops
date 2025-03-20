@@ -19,11 +19,11 @@ methods {
 }
 
 a {
-    @apply flex flex-row items-center w-full
+    @apply flex flex-row items-center w-full hover:bg-gray-100
 }
 
 a.button {
-    @apply bg-blue-400
+    @apply bg-blue-500 hover:bg-blue-400
 }
 
 img {
